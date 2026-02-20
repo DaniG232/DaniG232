@@ -1,77 +1,88 @@
-# 👋 Hello, I'm Daniel González Ureña
+# 👋 ¡Hola! Soy DaniG232
 
-Welcome to my GitHub profile! I'm a passionate student developer doing DAM in CampusFP
-
----
-
-## 🚀 About Me
-
-I'm enthusiastic about technology and love tackling challenging problems. With a focus on clean code and best practices, I'm constantly learning and growing as a developer. I believe in the power of collaboration and community-driven development.
+Estudiante de **Grado Superior en Desarrollo de Aplicaciones Multiplataforma (DAM)** cursando también el **Grado Superior en Desarrollo de Aplicaciones Web (DAW)**. Apasionado por la programación y la tecnología en todas sus formas.
 
 ---
 
-## 💻 Technical Skills
+## 🎓 Formación Académica
 
-- **Languages:** JavaScript, Python, Java
-- **Frontend:** React, HTML5, CSS
-- **Backend:** Node.js
-- **Databases:** PostgreSQL, MongoDB, MySQL
-- **Tools & Platforms:** Git, GitHub Actions
-- **Other:** RESTful APIs, Microservices
+- **Grado Superior en DAM** - En curso (Segundo año)
+- **Grado Superior en DAW** - En progreso (Doble titulación)
+- Enfocado en desarrollar habilidades sólidas en desarrollo multiplataforma y web
 
 ---
 
-## 📌 Featured Projects
+## 💻 Habilidades Técnicas
 
-### [Project Name One](https://github.com/DaniG232/project-one)
-Brief description of what this project does and its key features.
+### Lenguajes de Programación
+- **Java** ⭐ (Mi especialidad)
+- JavaScript
+- SQL
+- Android (Desarrollo Nativo)
 
-### [Project Name Two](https://github.com/DaniG232/project-two)
-Brief description of what this project does and its key features.
+### Frontend & Backend
+- Desarrollo de aplicaciones multiplataforma
+- Aplicaciones web responsivas
+- Bases de datos relacionales
 
-### [Project Name Three](https://github.com/DaniG232/project-three)
-Brief description of what this project does and its key features.
+### Herramientas & Tecnologías
+- Git & GitHub
+- Android Studio
+- IDEs: IntelliJ IDEA, Visual Studio Code
+- Control de versiones y flujo de trabajo colaborativo
+
+---
+
+## 📌 Proyectos Destacados
+
+### 🏪 [Akihabara Market](https://github.com/DaniG232/akihabara-market)
+**Proyecto académico integrador** desarrollado durante las prácticas del año anterior. Una aplicación completa que demuestra mis conocimientos en Java y desarrollo de software.
+- Gestión completa de base de datos
+- Interfaz de usuario intuitiva
+- Arquitectura escalable y mantenible
+
+---
+
+## 🚀 Actualmente Trabajando En
+
+- 📚 **Trabajo de Fin de Grado (TFG)** - Segundo año de DAM
+- Aplicando todos mis conocimientos de Java y desarrollo multiplataforma en un proyecto final significativo
+- Explorando nuevas tecnologías y mejores prácticas en desarrollo
+
+---
+
+## 🌱 Intereses & Objetivos
+
+- 🔍 Profundamente interesado en **todas las áreas de la Informática**
+- 🎯 Desarrollar aplicaciones robustas, escalables y bien documentadas
+- 🤝 Colaborar en proyectos desafiantes y significativos
+- 📖 Aprender continuamente y mantenerme actualizado con las nuevas tecnologías
+- 🌐 Contribuir a la comunidad de desarrollo
 
 ---
 
 ## 📊 GitHub Statistics
 
-![DaniG232's GitHub stats](https://github-readme-stats.vercel.app/api?username=DaniG232&show_icons=true&theme=radical)
+![DaniG232's GitHub stats](https://github-readme-stats.vercel.app/api?username=DaniG232&show_icons=true&theme=radical&bg_color=fff3e0&title_color=ff6b35&text_color=333)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DaniG232&layout=compact&theme=radical)
-
----
-
-## 🌐 Connect With Me
-
-- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/daniel-gonz%C3%A1lez-ure%C3%B1a-240633342/)
-- **Email:** danielgonzalezurena@gmail.com
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DaniG232&layout=compact&theme=radical&bg_color=fff3e0&title_color=ff6b35)
 
 ---
 
-## 📈 Currently Working On
+## 🌐 Conecta Conmigo
 
-- 🔭 Exploring cutting-edge technologies
-- 🌱 Continuously improving my skills
-- 💡 Open to collaborations and exciting projects
-- 🤝 Contributing to meaningful open-source initiatives
-
----
-
-## 🎯 Goals
-
-- Build scalable and impactful applications
-- Mentor and help other developers grow
-- Contribute significantly to open-source communities
-- Share knowledge through blogs and technical writing
+- **LinkedIn:** [DaniG232](https://linkedin.com/in/tu-perfil-linkedin) 💼
+- **GitHub:** [@DaniG232](https://github.com/DaniG232) 💻
+- **Email:** tu.email@example.com ✉️
 
 ---
 
-## 📝 Latest Blog Posts
+## 🎯 Mi Visión
 
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+Convertirme en un desarrollador versátil y competente, capaz de enfrentar desafíos tecnológicos desde múltiples perspectivas. Busco combinar mis conocimientos de DAM y DAW para crear soluciones innovadoras que impacten positivamente.
 
 ---
 
-*Last updated: 2026-02-20*
+💡 *"La pasión por la programación es el combustible que me impulsa a aprender y crecer cada día"*
+
+*Última actualización: 2026-02-20*
